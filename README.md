@@ -1,0 +1,2 @@
+# Laravel-inertia-template
+ 
